@@ -1,6 +1,6 @@
 # Realtek 8723bs Linux WIFI driver
 
-Since Linux 4.12, rtl8723bs has been merged. Therefore, this repo is now obsolete. 
+Since Linux 4.12, rtl8723bs has been merged. Therefore, this repo is now **obsolete**. 
 
 ~~~~
 commit 554c0a3abf216c991c5ebddcdb2c08689ecd290b
